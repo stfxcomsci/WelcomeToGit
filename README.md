@@ -7,12 +7,12 @@ This is a list
 + Unit 2
 + Unit 3
 
-'''Python
+```Python
 print("Hello world")
-'''
+```
 
-'''Java
+```Java
 System.out.println("Hello World")
-'''
+```
 
 Give that a try
